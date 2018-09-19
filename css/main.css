@@ -1,0 +1,92 @@
+body {
+  background-color: #121221;
+  color: #fff;
+  font-family: "Tenor Sans", sans-serif;
+
+}
+
+.social-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+h1 {
+  font-family: Cabin, sans-serif;
+}
+
+.tena {
+  line-height: 0.8;
+}
+
+.email-link {
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 0.3s ease-out;
+}
+
+.email-link:hover {
+    margin-left: 1.2em;
+    padding: .5em 10em .5em .5em;
+    color: #fff;
+    background-color: #e52e6b;
+    border-bottom: solid #e52e6b 40px;
+}
+
+.cover {
+  background: url("../images/cover-coming.jpg") no-repeat left top / cover;
+  min-height: 100vh;
+}
+
+.icon-social {
+  height: 36px;
+  width: 36px;
+}
+
+.social-icon-t {
+  transition: all 0.3s ease-out;
+}
+
+.social-icon-in {
+  transition: all 0.3s ease-out;
+}
+
+.social-icon-f {
+  transition: all 0.3s ease-out;
+}
+
+.social-icon-f:hover {
+  padding-top: 1em;
+  border-bottom: solid #e52e6b 300px;
+  background-color: #e52e6b;
+}
+
+.social-icon-in:hover {
+  padding-top: 1em;
+  border-bottom: solid #e52e6b 300px;
+  background-color: #e52e6b;
+}
+
+.social-icon-t:hover {
+  padding-top: 1em;
+  border-bottom: solid #e52e6b 300px;
+  background-color: #e52e6b;
+}
+
+.caps {
+  text-transform: uppercase;
+}
+
+.bio {
+  border-left: solid #e52e6b 3px;
+  padding-left: .5em;
+}
+
+.helo {
+  transition: all 0.3s ease-out;
+}
+
+.helo:hover {
+  color: #32b7b6;
+  margin: 0 .1em; 
+}
